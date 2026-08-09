@@ -13,6 +13,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Bargal-cmd/core-java-interview-questions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Bargal-cmd/core-java-interview-questions/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/Bargal-cmd/core-java-interview-questions/tree/master/0485-max-consecutive-ones) |
 ## Bit Manipulation
 |  |
 | ------- |
