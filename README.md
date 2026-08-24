@@ -7,6 +7,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Bargal-cmd/core-java-interview-questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Bargal-cmd/core-java-interview-questions/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/Bargal-cmd/core-java-interview-questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Bargal-cmd/core-java-interview-questions/tree/master/0268-missing-number) |
 ## Array
 |  |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Bargal-cmd/core-java-interview-questions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Bargal-cmd/core-java-interview-questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Bargal-cmd/core-java-interview-questions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -36,4 +38,8 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Bargal-cmd/core-java-interview-questions/tree/master/0283-move-zeroes) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Bargal-cmd/core-java-interview-questions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
