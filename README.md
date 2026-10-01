@@ -16,6 +16,7 @@
 | [0268-missing-number](https://github.com/Bargal-cmd/core-java-interview-questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Bargal-cmd/core-java-interview-questions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Bargal-cmd/core-java-interview-questions/tree/master/0485-max-consecutive-ones) |
+| [1480-running-sum-of-1d-array](https://github.com/Bargal-cmd/core-java-interview-questions-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Bargal-cmd/core-java-interview-questions/tree/master/1572-matrix-diagonal-sum) |
 ## Bit Manipulation
 |  |
@@ -47,4 +48,8 @@
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/Bargal-cmd/core-java-interview-questions/tree/master/1572-matrix-diagonal-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Bargal-cmd/core-java-interview-questions-DSA/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
