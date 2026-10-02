@@ -18,6 +18,7 @@
 | [0485-max-consecutive-ones](https://github.com/Bargal-cmd/core-java-interview-questions/tree/master/0485-max-consecutive-ones) |
 | [1480-running-sum-of-1d-array](https://github.com/Bargal-cmd/core-java-interview-questions-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Bargal-cmd/core-java-interview-questions/tree/master/1572-matrix-diagonal-sum) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/Bargal-cmd/core-java-interview-questions-DSA/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Bargal-cmd/core-java-interview-questions/tree/master/0268-missing-number) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/Bargal-cmd/core-java-interview-questions-DSA/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,4 +54,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Bargal-cmd/core-java-interview-questions-DSA/tree/master/1480-running-sum-of-1d-array) |
+## Counting
+|  |
+| ------- |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/Bargal-cmd/core-java-interview-questions-DSA/tree/master/2341-maximum-number-of-pairs-in-array) |
 <!---LeetCode Topics End-->
